@@ -73,5 +73,5 @@ classDiagram
     Sede <|-- posgrados_humanas
     Sede <|-- central
     Sede <|-- derecho_y_cp
-
+```
 
